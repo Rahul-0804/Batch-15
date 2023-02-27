@@ -1,0 +1,45 @@
+.template-one-project-comp{
+    /* border: 3px solid red; */
+    margin-bottom: 3px;
+}
+
+.template-one-project-comp__upper{
+    /* border: 3px solid green; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.template-one-project-comp__lower{
+    /* border: 3px solid blue; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.template-one-project-comp_name{
+    font-size: 15px;
+}
+
+
+.template-one-project-comp_link{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 200;
+    color: black
+}
+
+.template-one-project-comp_month{
+    font-size: 15px;
+    font-weight: 200;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.template-one-project-comp_description{
+    font-size: 13px;
+    margin: 2px 0;
+    font-weight: 500;
+    text-align: justify;
+
+}
